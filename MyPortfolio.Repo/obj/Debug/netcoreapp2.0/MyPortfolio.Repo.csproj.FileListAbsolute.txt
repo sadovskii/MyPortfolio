@@ -1,0 +1,12 @@
+F:\My program\MyPortfolio\MyPortfolio.Repo\bin\Debug\netcoreapp2.0\MyPortfolio.Repo.deps.json
+F:\My program\MyPortfolio\MyPortfolio.Repo\bin\Debug\netcoreapp2.0\MyPortfolio.Repo.dll
+F:\My program\MyPortfolio\MyPortfolio.Repo\bin\Debug\netcoreapp2.0\MyPortfolio.Repo.pdb
+F:\My program\MyPortfolio\MyPortfolio.Repo\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.dll
+F:\My program\MyPortfolio\MyPortfolio.Repo\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.pdb
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.csprojResolveAssemblyReference.cache
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.csproj.CoreCompileInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.AssemblyInfoInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.AssemblyInfo.cs
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.csproj.CopyComplete
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.dll
+F:\My program\MyPortfolio\MyPortfolio.Repo\obj\Debug\netcoreapp2.0\MyPortfolio.Repo.pdb

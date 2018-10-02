@@ -1,0 +1,14 @@
+F:\My program\MyPortfolio\MyPortfolio.Resource\bin\Debug\netcoreapp2.0\MyPortfolio.Resource.deps.json
+F:\My program\MyPortfolio\MyPortfolio.Resource\bin\Debug\netcoreapp2.0\MyPortfolio.Resource.dll
+F:\My program\MyPortfolio\MyPortfolio.Resource\bin\Debug\netcoreapp2.0\MyPortfolio.Resource.pdb
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.csprojResolveAssemblyReference.cache
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.Common.resources
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.StartPage.resources
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.csproj.GenerateResource.cache
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.csproj.CoreCompileInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.AssemblyInfoInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.AssemblyInfo.cs
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.dll
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.pdb
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.Elements.Email.resources
+F:\My program\MyPortfolio\MyPortfolio.Resource\obj\Debug\netcoreapp2.0\MyPortfolio.Resource.Elements.Password.resources

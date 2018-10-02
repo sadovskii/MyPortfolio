@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyPortfolio.DAL\MyPortfolio.DAL.csproj" />
+    <ProjectReference Include="..\MyPortfolio.Repo\MyPortfolio.Repo.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+    <Folder Include="ModelsDTO\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>

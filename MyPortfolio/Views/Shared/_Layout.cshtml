@@ -1,0 +1,97 @@
+﻿@using MyPortfolio.Resource;
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - MyPortfolio</title>
+
+    <environment include="Development">
+        <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
+        <link rel="stylesheet" href="~/css/site.css" />
+    </environment>
+    <environment exclude="Development">
+        <link rel="stylesheet" href="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/css/bootstrap.min.css"
+              asp-fallback-href="~/lib/bootstrap/dist/css/bootstrap.min.css"
+              asp-fallback-test-class="sr-only" asp-fallback-test-property="position" asp-fallback-test-value="absolute" />
+        <link rel="stylesheet" href="~/css/site.min.css" asp-append-version="true" />
+    </environment>
+</head>
+<body>
+    <div class="wrapper">
+        <nav id="sidebar">
+            <div tabindex="0" class="sidebar-header">
+                <h3>MyPortfolio</h3>
+            </div>
+            <ul class="list-unstyled components">
+                <li>
+                    <a role="button" tabindex="0" class="link-blog">@Common.Blog</a>
+                </li>
+                <li>
+                    <a role="button" tabindex="0" class="link-projects">@Common.Projects</a>
+                </li>
+                <li>
+                    <a role="button" tabindex="0" class="link-articles">@Common.Articles</a>
+                </li>
+            </ul>
+        </nav>
+        <div id="main">
+            <nav class="navbar navbar-top navbar-expand-lg navbar-light bg-light">
+                <div class="container-fluid" style="display:flex">
+
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                        <span>Toggle Sidebar</span>
+                    </button>
+                    <ul class="collapse navbar-collapse" style="background-color: aqua">
+                        <li class="nav-login">
+                            <a href="#">3123</a>
+                        </li>
+                    </ul>
+
+                </div>
+            </nav>
+            @Html.Partial("~/Views/Shared/Authorization/_AuthModalView.cshtml")
+            <div id="content">
+                @RenderBody()
+            </div>
+            <!-- Footer -->
+            <footer class="page-footer font-small blue">
+                <!-- Copyright -->
+                <div class="footer-copyright text-center py-3">
+                    © 2018 Copyright:
+                    <a href="https://mdbootstrap.com/bootstrap-tutorial/"> MDBootstrap.com</a>
+                </div>
+                <!-- Copyright -->
+            </footer>
+            <!-- Footer -->
+        </div>
+    </div>
+    <environment include="Development">
+        <script src="~/lib/jquery/dist/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.js"></script>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        <script src="~/js/common/AjaxRequests.js" asp-append-version="true"></script>
+    </environment>
+    <environment exclude="Development">
+        <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-2.2.0.min.js"
+                asp-fallback-src="~/lib/jquery/dist/jquery.min.js"
+                asp-fallback-test="window.jQuery"
+                crossorigin="anonymous"
+                integrity="sha384-K+ctZQ+LL8q6tP7I94W+qzQsfRV2a+AfHIi9k8z8l9ggpc8X+Ytst4yBo/hH+8Fk">
+        </script>
+        <script src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.7/bootstrap.min.js"
+                asp-fallback-src="~/lib/bootstrap/dist/js/bootstrap.min.js"
+                asp-fallback-test="window.jQuery && window.jQuery.fn && window.jQuery.fn.modal"
+                crossorigin="anonymous"
+                integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa">
+        </script>
+        <script src="~/js/site.min.js" asp-append-version="true"></script>
+        <script src="~/js/common/AjaxRequests.min.js" asp-append-version="true"></script>
+    </environment>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+

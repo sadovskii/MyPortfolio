@@ -1,0 +1,11 @@
+F:\My program\MyPortfolio\MyPortfolio.DAL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.deps.json
+F:\My program\MyPortfolio\MyPortfolio.DAL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.runtimeconfig.json
+F:\My program\MyPortfolio\MyPortfolio.DAL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.runtimeconfig.dev.json
+F:\My program\MyPortfolio\MyPortfolio.DAL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.dll
+F:\My program\MyPortfolio\MyPortfolio.DAL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.pdb
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.csproj.CoreCompileInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.AssemblyInfoInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.AssemblyInfo.cs
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.dll
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.pdb
+F:\My program\MyPortfolio\MyPortfolio.DAL\obj\Debug\netcoreapp2.0\MyPortfolio.DAL.csprojResolveAssemblyReference.cache

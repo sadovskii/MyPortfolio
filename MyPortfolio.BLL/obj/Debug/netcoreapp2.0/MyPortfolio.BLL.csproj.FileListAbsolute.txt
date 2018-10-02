@@ -1,0 +1,14 @@
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.BLL.deps.json
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.BLL.dll
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.BLL.pdb
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.dll
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.Repo.dll
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.DAL.pdb
+F:\My program\MyPortfolio\MyPortfolio.BLL\bin\Debug\netcoreapp2.0\MyPortfolio.Repo.pdb
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.csprojResolveAssemblyReference.cache
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.csproj.CoreCompileInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.AssemblyInfoInputs.cache
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.AssemblyInfo.cs
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.csproj.CopyComplete
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.dll
+F:\My program\MyPortfolio\MyPortfolio.BLL\obj\Debug\netcoreapp2.0\MyPortfolio.BLL.pdb

@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Update="Common.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Common.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Elements\Email.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Email.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Elements\Password.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Password.resx</DependentUpon>
+    </Compile>
+    <Compile Update="StartPage.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>StartPage.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="Common.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Common.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Elements\Email.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Email.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Elements\Password.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Password.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="StartPage.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>StartPage.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+
+</Project>
